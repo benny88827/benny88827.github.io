@@ -1,0 +1,20 @@
+body{
+    
+    text-align: center;
+    background-color: black;
+}
+
+
+button{
+    
+    background-color:firebrick;
+    border-radius: 30px;
+    height: 45px;
+    width: 60px;
+    
+}
+
+.myclass{
+    
+        font-family: 'Indie Flower', cursive; 
+}
